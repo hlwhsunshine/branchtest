@@ -15,12 +15,6 @@ public class MainActivity extends AppCompatActivity {
         circleBar.setDesText("进度");
         circleBar.setText("9");
         circleBar.setSweepAngle(100);
-        //分支2创建
-        //这是分支1
-        //这于master分支创建
-        //这是分支2
-        //这是远程分支创建
-        //分支1提交
-        //分支1加入的内容
+        //new 分支
     }
 }
