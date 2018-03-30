@@ -20,5 +20,6 @@ public class MainActivity extends AppCompatActivity {
         //这是分支2
         //这是远程分支创建
         //分支1提交
+        //远程分支2加入的内容
     }
 }
