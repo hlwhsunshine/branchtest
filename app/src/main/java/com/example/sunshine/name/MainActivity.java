@@ -1,4 +1,4 @@
-package com.example.qq794.myapplication;
+package com.example.sunshine.name;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -23,5 +23,7 @@ public class MainActivity extends AppCompatActivity {
         //这是远程分支创建
         //分支1提交
         //远程分支2加入的内容
+        //这是kuai
+
     }
 }
